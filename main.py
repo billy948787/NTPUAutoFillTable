@@ -97,13 +97,9 @@ def fillSheet():
     driver.find_element_by_xpath('/html/body/center/form/center[1]/table[2]/tbody/tr[26]/th[2]/input').click()
     driver.find_element_by_xpath('/html/body/center/form/center[1]/table[2]/tbody/tr[27]/th[2]/input').click()
     driver.find_element_by_xpath('/html/body/center/form/center[1]/table[2]/tbody/tr[28]/th[1]/div/input[2]').click()
-    # drive
     driver.find_element_by_xpath('/html/body/center/form/center[1]/table[2]/tbody/tr[29]/th[1]/div/input[1]').click()
-    # drive
     driver.find_element_by_xpath('/html/body/center/form/center[1]/table[2]/tbody/tr[30]/th[1]/div/input[2]').click()
-    # drive
     driver.find_element_by_xpath('/html/body/center/form/center[1]/table[2]/tbody/tr[31]/th[1]/div/input[3]').click()
-    # drive
         
 
 
